@@ -7,7 +7,7 @@ $result = $conn->query("SELECT * FROM mahasiswa");
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <title>CRUD Mahasiswa</title>
+    <title>CRUD Mahasiswa AS</title>
 </head>
 <body>
     <h2>Data Mahasiswa</h2>
