@@ -11,7 +11,7 @@ $result = $conn->query("SELECT * FROM mahasiswa");
 </head>
 <body>
     <h2>Data Mahasiswa</h2>
-    <a href="add.php">Tambah Mahasiswa A</a>
+    <a href="add.php">Tambah Mahasiswa AB</a>
     <table border="1">
         <tr>
             <th>NIM</th>
