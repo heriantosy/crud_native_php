@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Edit Mahasiswa</title>
 </head>
 <body>
-    <h2>Edit Mahasiswa</h2>
+    <h2>Edit dATA Mahasiswa</h2>
     <form method="post">
         <label>Nama:</label>
         <input type="text" name="nama" value="<?= $data['nama'] ?>" required><br>

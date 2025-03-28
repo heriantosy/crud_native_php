@@ -15,7 +15,7 @@ $result = $conn->query("SELECT * FROM mahasiswa");
     <table border="1">
         <tr>
             <th>NIM</th>
-            <th>Nama</th>
+            <th>Nama </th>
             <th>Alamat</th>
             <th>Aksi</th>
         </tr>
